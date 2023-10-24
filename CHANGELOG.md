@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.0
+
+- ansible 2.15
+
 ## 0.5.0
 
 - removed py2.x support

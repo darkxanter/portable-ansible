@@ -1,4 +1,4 @@
-ansible-base>=2.10,<2.11
+ansible-core>=2.15,<2.16
 Jinja2
 PyYAML
 paramiko
