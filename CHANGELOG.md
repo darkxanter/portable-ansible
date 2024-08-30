@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.7.0
+
+- ansible 2.17
+
 ## 0.6.0
 
 - ansible 2.15
@@ -13,50 +17,50 @@
 ## 0.4.2
 
 - updated python versions
-    ansible, 2.9.10
-    PyYAML, 5.3.1
-    asn1crypto, 1.3.0
-    cffi, 1.14.0
-    PyNaCl, 1.4.0
-    jinja2, 2.11.2
-    six, 1.15.0
+  ansible, 2.9.10
+  PyYAML, 5.3.1
+  asn1crypto, 1.3.0
+  cffi, 1.14.0
+  PyNaCl, 1.4.0
+  jinja2, 2.11.2
+  six, 1.15.0
 
 ## 0.4.1
 
 - updated python versions
-    ansible, 2.9.2
-    PyYAML, 5.2
-    paramiko, 2.7.1
-    six, 1.13.0
-    pyasn1, 0.4.8
-    cffi, 1.13.2
+  ansible, 2.9.2
+  PyYAML, 5.2
+  paramiko, 2.7.1
+  six, 1.13.0
+  pyasn1, 0.4.8
+  cffi, 1.13.2
 
 ## 0.3.3
 
 - updated python versions
-    ansible, 2.8.6
-    PyYAML, 5.1.2
-    paramiko, 2.6.0
-    jinja2, 2.10.3
-    markupsafe, 1.1.1
+  ansible, 2.8.6
+  PyYAML, 5.1.2
+  paramiko, 2.6.0
+  jinja2, 2.10.3
+  markupsafe, 1.1.1
 
 ## 0.3.2
 
-- added test docker image for ansible node (CentOS7) 
+- added test docker image for ansible node (CentOS7)
 - added new dependency for PY2 distribution
-    - enum
+  - enum
 
 ## 0.3.1
 
 - added docker images for testing
 - Upgraded components to versions:
-    - Ansible, 2.8.5
+  - Ansible, 2.8.5
 - Installed new dependencies for access via username/password with paramiko
-    - pyasn1, 0.4.7
-    - asn1crypto, 1.2.0
-    - bcrypt, 3.1.7
-    - cffi, 1.13.0
-    - PyNaCl, 1.3.0
+  - pyasn1, 0.4.7
+  - asn1crypto, 1.2.0
+  - bcrypt, 3.1.7
+  - cffi, 1.13.0
+  - PyNaCl, 1.3.0
 
 ## 0.3.0
 
@@ -81,5 +85,4 @@ Upgrade to versions:
 
 - [x] added support of Ansible-2.5.5
 - [x] build process re-factoring
-- [x] added python2 and python3 support 
-
+- [x] added python2 and python3 support
