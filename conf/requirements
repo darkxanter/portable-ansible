@@ -3,3 +3,4 @@ Jinja2
 PyYAML
 paramiko
 markupsafe
+passlib
